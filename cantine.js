@@ -1,7 +1,6 @@
-const client="Awa";
-let codeplat=1;
-let quantité=Number(3);
-let montantversé=5000;
-
-// le montant de la commande 
-
+let client="Awa";
+let codeplat=3;
+let Quantité= "4";
+let montantversé=4000;
+// conversion 
+Quantité=Number(Quantité);

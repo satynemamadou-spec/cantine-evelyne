@@ -1,23 +1,3 @@
-// CODE 1
-le prix est 1500
-portion 1 : attieke poisson - 1500 FCFA
-portion 2 : attieke poisson - 1500 FCFA
-portion 3 : attieke poisson - 1500 FCFA
-chère client,Awale montant total à payé est 4500 FCFA
-votre monnaie est 500
+2- Declarons les donnés de la commande 
 
-// CODE 2
-le prix est 2000
-portion 1 : riz-poulet - 2000 FCFA
-portion 2 : riz-poulet - 2000 FCFA
-chère client,Awale montant total à payé est 4000 FCFA
-vous devez payer 1000
-
-// CODE 3
-le prix unitaire est 1000
-portion 1 : alloco-oeuf - 1000 FCFA
-portion 2 : alloco-oeuf - 1000 FCFA
-portion 3 : alloco-oeuf - 1000 FCFA
-portion 4 : alloco-oeuf - 1000 FCFA
-chère client,Awale montant total à payé est 4000 FCFA
-vous devez payer 0
+Client:Awa,codeplat:1,Quantité:3,montantversé 5000

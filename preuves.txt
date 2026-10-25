@@ -1,3 +1,12 @@
 2- Declarons les donnés de la commande 
 
 Client:Awa,codeplat:1,Quantité:3,montantversé 5000
+
+//3- LE MONTANT DE LA COMMANDE 
+le prix est 1500
+portion 1 : attieke poisson - 1500 FCFA
+portion 2 : attieke poisson - 1500 FCFA
+portion 3 : attieke poisson - 1500 FCFA
+chère client, Awa le montant total à payé est 4500 FCFA
+votre monnaie est 500
+

@@ -60,3 +60,16 @@ if (codeplat >= 1 && codeplat <= 3 && Quantité > 0) {
 } else {
     console.log(`choississez un code plat valide entre 1 et 3 et une quantité strictement positive`);
 }
+// 4 - Affichage de recapitulatif
+console.log(`Client : ${client}`);
+console.log(`Plat : ${typeplat}`);
+console.log(`Quantité : ${Quantité}`);
+console.log(`Montant total : ${montantfinal} FCFA`);
+
+if (montantversé > montantfinal) {
+    let reste = montantversé - montantfinal;
+    console.log(`Votre monnaie est ${reste} FCFA`);
+} else {
+    let apayer = montantfinal - montantversé;
+    console.log(`Vous devez payer ${apayer} FCFA`);
+}
